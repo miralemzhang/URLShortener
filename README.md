@@ -4,6 +4,18 @@ A full-featured URL shortener with rich link previews, custom aliases, click ana
 
 ---
 
+
+## 🎥 Project Demo
+The full demonstration of the Vibe Coding process and UI features can be viewed here:
+👉 [Watch Demo on Google Drive](https://drive.google.com/file/d/1OaB_g5m7l9hyLAL5jeeG4TBN26gmcd1i/view?usp=drive_link)
+
+<p align="center">
+  <img src="screenshot1.png" width="49%" alt="Dashboard Screenshot" />
+  <img src="screenshot2.png" width="49%" alt="Preview Card Screenshot" />
+</p>
+
+
+
 ## Quick Start
 
 ```bash
